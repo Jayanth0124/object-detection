@@ -6,3 +6,8 @@ gtts
 opencv-python
 pillow
 numpy
+torch
+torchvision
+torchaudio
+opencv-python-headless
+ultralytics

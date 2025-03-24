@@ -9,6 +9,12 @@ import mediapipe as mp
 import wikipedia
 from gtts import gTTS
 import os
+import asyncio
+
+try:
+    asyncio.get_running_loop()
+except RuntimeError:
+    asyncio.set_event_loop(asyncio.new_event_loop())
 
 # Set page config
 st.set_page_config(page_title="Advanced AI Object Detector", layout="wide")
