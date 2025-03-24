@@ -11,7 +11,7 @@ from gtts import gTTS
 import os
 
 # Set page config as the first command
-st.set_page_config(page_title="Advanced AI Object Detector", layout="wide")
+st.set_page_config(page_title="Advanced Object Analyzer", layout="wide")
 
 # Load YOLOv8 Model
 @st.cache_resource
@@ -182,7 +182,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Streamlit UI
-st.markdown('<h1 class="title">🔍 Advanced AI Object Detector</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title">🔍 Advanced Object Analyzer</h1>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">Capture or upload an image for object detection and pose estimation</p>', 
            unsafe_allow_html=True)
 
