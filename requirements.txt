@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+mediapipe
+wikipedia-api
+gtts
+opencv-python
+pillow
+numpy
