@@ -13,3 +13,4 @@ opencv-python-headless
 ultralytics
 wikipedia-api
 wikipedia
+python-3.9
