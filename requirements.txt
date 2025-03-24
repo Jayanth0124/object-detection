@@ -11,3 +11,4 @@ torchvision
 torchaudio
 opencv-python-headless
 ultralytics
+wikipedia-api
