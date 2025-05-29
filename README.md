@@ -62,4 +62,4 @@ streamlit run app.py
 ## 📝 **License**  
 This project is **open-source** under the **MIT License**. Feel free to use & modify!  
 
-💡 **Designed by [Donavalli Jayanth](http://www.jayanth.xyz) 🚀**  
+💡 **Designed by [Donavalli Jayanth](http://www.jayanth.site) 🚀**  
